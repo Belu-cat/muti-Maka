@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "unofficial tuki tiki translation"
+  },
+  "language": {
+    "qtt_qt": {
+           "name": "tuki tiki",
+           "region": "kiku tiki",
+           "bidirectional": false
+    }
+  }
+}
